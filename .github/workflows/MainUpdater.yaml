@@ -23,8 +23,8 @@ jobs:
           node src/update.js
       - name: 🚀 Deploy
         run: |
-            git config user.name "${GITHUB_ACTOR}"
-            git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-            git add .
-            git commit -m "[Automatic] Updated ReadMe.md commit $i"
-          git push --all -f https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git add .
+          git commit -am "[Automatic] Updated ReadMe.md"
+          git push --all -f https://${{ secrets.PAT_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
