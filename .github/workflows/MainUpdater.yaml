@@ -1,7 +1,3 @@
-permissions:
-  contents: write
-  workflows: write
-
 name: Main ReadMe Updater
 
 on:
