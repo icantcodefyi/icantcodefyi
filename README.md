@@ -9,5 +9,5 @@ Prev : [@anuplayz](https://github.com/anuplayz) *got compromised oof*
 
 [![Aniruddh's GitHub stats](https://github-readme-stats.vercel.app/api?username=icantcodefyi&theme=nord&hide_border=true&text_bold=false)](https://github.com/anuraghazra/github-readme-stats)
   
-<!-- Last updated on Fri Jun 28 2024 18:33:01 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 28th June 2024 using magic</i> ✨ 
+<!-- Last updated on Sat Jun 29 2024 02:20:53 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 29th June 2024 using magic</i> ✨ 
