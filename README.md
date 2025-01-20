@@ -9,5 +9,5 @@ Prev : [@anuplayz](https://github.com/anuplayz) *got compromised oof*
 
 [![Aniruddh's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icantcodefyi)](https://icantcode.fyi/)
   
-<!-- Last updated on Sun Jan 19 2025 18:19:32 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 19th January 2025 using magic</i> ✨ 
+<!-- Last updated on Mon Jan 20 2025 01:15:23 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 20th January 2025 using magic</i> ✨ 
