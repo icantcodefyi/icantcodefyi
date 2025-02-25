@@ -4,7 +4,6 @@ In free time, I usually either work on side projects or learn about new stuff re
 
 I almost always listen to music whenever I can. My taste ranges from beautiful classical masterpieces or movie soundtracks to catchy Japanese popular music. Combinations of the two, like pieces by [Yuki Kajiura](https://en.wikipedia.org/wiki/Yuki_Kajiura), are simply perfection ✨
 
-Prev : [@anuplayz](https://github.com/anuplayz) *got compromised oof*
 <!-- EXCLUDE -->
 
 [![Aniruddh's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icantcodefyi)](https://icantcode.fyi/)
